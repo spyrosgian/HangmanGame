@@ -12,7 +12,7 @@ The user is given a specified number of guesses to guess all the letters in the 
 displayed on the screen. However, if the user is not successful, the message "Hard Luck" is displayed on the screen.
 
 If all the words to be used by the program are stored in a file words and the user wishes to try and guess all the letters in the randomly selected word
-in 8 guesses, the Python script may be executed as follows: <python game.py words 8>
+in 8 guesses, the Python script may be executed as follows: **python game.py words 8**.
 
 We assume the content of the file words comprises lowercase letters.
 A guess of a single alphabetic character reduces the number of guesses remaining by one. 
